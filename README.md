@@ -1,4 +1,4 @@
-## Twitter's Effects On Currency Exchange RateTwitters Effects On Currency Exchange Rate
+## Twitters Effects On Currency Exchange Rate
 
 #### Note
 Because of github there might be problems with opening the ipynb files. If you face with this problem you can use [Viewer](https://nbviewer.jupyter.org/ "Viewer") to open files.
