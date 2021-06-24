@@ -70,6 +70,18 @@ If p-value is smaller than 0.05, we can reject the null hypothesis and say that 
 
 p-values are smaller than 0.05. So we can say that there is a meaningful difference with the results of two datasets
 
+### Files
+
+Difference_model_normal.ipynb - Predictions with only difference feature
+
+predictions_difference_tweets.ipynb - Predictions with difference and tweet data
+
+Files that begins with Twint - Collecting Tweets 
+
+Project.ipynb - Analysis of data and predictions with currency rate and Tweets
+
+Results.ipynb - Comparisons and visualizations of results
+
 
 
 
